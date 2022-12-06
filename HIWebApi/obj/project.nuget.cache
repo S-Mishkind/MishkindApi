@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFIc3kNF2I63lBe549CIGT4FzcpdoVk0NIHSnIgYriGytIDFlemKqTsw2k+Q1SUK8aGOCfqhOUtZ6kuXPTcMOQ==",
+  "dgSpecHash": "ep3Kg/HZBPd5z4cfXxLrvWLl5/PrYfT4+w0yxMrOyViKMt8QZKbByPPzVbvnIHjyX7Jno2WZD7wyJ7hjdvHMgw==",
   "success": true,
-  "projectFilePath": "/home/mish/Documents/Development/HartInterCivic/MishkindApi/HIWebApi/HIWebApi.csproj",
+  "projectFilePath": "/home/mish/Documents/Development/HartInterCivic/DoNotUseMishkindApi/HIWebApi/HIWebApi.csproj",
   "expectedPackageFiles": [
     "/home/mish/.nuget/packages/microsoft.aspnet.cors/5.2.9/microsoft.aspnet.cors.5.2.9.nupkg.sha512",
     "/home/mish/.nuget/packages/microsoft.aspnet.webapi.client/5.2.9/microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

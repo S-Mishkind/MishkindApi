@@ -5563,11 +5563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mish/Documents/Development/HartInterCivic/MishkindApi/HIWebApi/HIWebApi.csproj",
+      "projectUniqueName": "/home/mish/Documents/Development/HartInterCivic/DoNotUseMishkindApi/HIWebApi/HIWebApi.csproj",
       "projectName": "HIWebApi",
-      "projectPath": "/home/mish/Documents/Development/HartInterCivic/MishkindApi/HIWebApi/HIWebApi.csproj",
+      "projectPath": "/home/mish/Documents/Development/HartInterCivic/DoNotUseMishkindApi/HIWebApi/HIWebApi.csproj",
       "packagesPath": "/home/mish/.nuget/packages/",
-      "outputPath": "/home/mish/Documents/Development/HartInterCivic/MishkindApi/HIWebApi/obj/",
+      "outputPath": "/home/mish/Documents/Development/HartInterCivic/DoNotUseMishkindApi/HIWebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mish/.nuget/NuGet/NuGet.Config"
